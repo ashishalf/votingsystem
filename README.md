@@ -30,10 +30,10 @@ This is a backend application for a voting system where users can vote for candi
 ## Authentication
 
 ### Sign Up
-- `POST /signup`: Sign up a user
+- `POST /user/signup`: Sign up a user
 
 ### Login
-- `POST /login`: Login a user
+- `POST /user/login`: Login a user
 
 ## Candidates
 
